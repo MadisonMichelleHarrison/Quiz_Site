@@ -1,0 +1,22 @@
+#submit, #reset {
+    font-size: 20px;
+    background-color: rgb(66, 43, 82);
+    color: #fff;
+    padding: 20px;
+    cursor: pointer;
+    display: block;
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+#submit:hover, #reset:hover {
+    background-color: #665d86;
+}
+
+.answers {
+    margin-bottom: 20px;
+}
+
+.answers label {
+    display: block;
+}
